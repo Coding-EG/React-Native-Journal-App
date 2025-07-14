@@ -1,97 +1,49 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# React Native Daily Journalling Application
 
-# Getting Started
+> A simple Encrypted journal application
+> This app encrypt your data. to read your ,needs password
+> Simple UI to write and read your daily journals
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+---
 
-## Step 1: Start Metro
+## Features
+- All your data stored in your Mobile Phone
+- All your data encrypted and password protected
+- To read your journal , you need to enter password first
+- You can also edit your journal and change to your journal any time
+  
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+---
+## Demo Video
 
-```sh
-# Using npm
-npm start
 
-# OR using Yarn
-yarn start
-```
 
-## Step 2: Build and run your app
+https://github.com/user-attachments/assets/d32a1f8a-1667-45ae-a7a1-6bf99447dda1
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
 
-### Android
 
-```sh
-# Using npm
-npm run android
+---
 
-# OR using Yarn
-yarn android
-```
+## Screenshots
+![icon1](https://github.com/user-attachments/assets/03c0ef11-71fe-4b1f-9139-a709ce21697a)
+![icon6](https://github.com/user-attachments/assets/96ca6fec-03ae-4fde-99b8-d51834d2eb08)
+![icon7](https://github.com/user-attachments/assets/bb8cff82-984e-470c-a50d-c765dad50f41)
+![icon9](https://github.com/user-attachments/assets/ae9ac77d-61ed-4411-8aa4-38faef1c751c)
 
-### iOS
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+---
 
-```sh
-bundle install
-```
 
-Then, and every time you update your native dependencies, run:
 
-```sh
-bundle exec pod install
-```
+## APK Download 
+[`Download APK`](https://drive.google.com/file/d/1oFHrAnerTJ0MQ5jik_ph_0EN3uGl2H8S/view)
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+---
 
-```sh
-# Using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
-
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
-
-## Step 3: Modify your app
-
-Now that you have successfully run the app, let's make changes!
-
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
-
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
-
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+## Tech Stack
+- React Native CLI
+- AsyncStorage (To store data in mobile)
+- react-native-aes-crypto (To encrypt and decrypt data)
+  
