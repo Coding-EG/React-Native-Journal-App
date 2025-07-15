@@ -19,26 +19,28 @@
 
 
 
-https://github.com/user-attachments/assets/d32a1f8a-1667-45ae-a7a1-6bf99447dda1
+https://github.com/user-attachments/assets/bcd39d74-19dd-4d49-91ed-48d20bed5863
+
+
 
 
 
 ---
 
 ## Screenshots
-![icon1](https://github.com/user-attachments/assets/03c0ef11-71fe-4b1f-9139-a709ce21697a)
-![icon6](https://github.com/user-attachments/assets/96ca6fec-03ae-4fde-99b8-d51834d2eb08)
-![icon7](https://github.com/user-attachments/assets/bb8cff82-984e-470c-a50d-c765dad50f41)
-![icon9](https://github.com/user-attachments/assets/ae9ac77d-61ed-4411-8aa4-38faef1c751c)
 
-
+<img width="720" height="1080" alt="1000164835-portrait" src="https://github.com/user-attachments/assets/c3126780-3e26-453e-a166-4e8ba6bc2671" />
+<img width="720" height="1080" alt="1000164836-landscape" src="https://github.com/user-attachments/assets/bd683c49-0bef-45c0-939c-73ebb0ba74a8" />
+<img width="720" height="1080" alt="1000164836-portrait" src="https://github.com/user-attachments/assets/e9453e9d-5fca-488c-bef4-97d628bc2fc1" />
+<img width="720" height="1080" alt="1000164837-landscape" src="https://github.com/user-attachments/assets/e3d48bae-019e-471d-851f-ec09418ceefa" />
+<img width="720" height="1080" alt="1000164837-portrait" src="https://github.com/user-attachments/assets/68140afb-b56a-473f-bd8f-634ed7db07c6" />
 
 ---
 
 
 
 ## APK Download 
-[`Download APK`](https://drive.google.com/file/d/1oFHrAnerTJ0MQ5jik_ph_0EN3uGl2H8S/view)
+[`Download APK`](https://drive.google.com/file/d/19tsIg4SCsxKhTjMIUDeKYq4ZKu9RiHFh/view)
 
 ---
 
